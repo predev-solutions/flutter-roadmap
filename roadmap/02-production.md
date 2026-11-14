@@ -2,6 +2,8 @@
 
 Phase 1 produced an app that works on your phone. In this phase you turn it into an app a team could maintain: layered, tested, usable offline and checked by CI. This is the mid level.
 
+Each week below has a matching task list in [tasks/02-production.md](../tasks/02-production.md) that breaks the build into small steps.
+
 ## Week 7: architecture
 
 Topics
