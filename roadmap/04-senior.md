@@ -2,6 +2,8 @@
 
 The first three phases were about your own code. This one is about decisions that affect a team: how an app is designed before anyone writes it, how a codebase stays healthy as it grows, and how you make other developers better.
 
+Each week below has a matching task list in [tasks/04-senior.md](../tasks/04-senior.md) that breaks the build into small steps.
+
 ## Week 19: system design for mobile
 
 Topics
