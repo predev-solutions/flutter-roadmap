@@ -2,6 +2,8 @@
 
 Mid-level developers can use Flutter. In this phase you learn how it works underneath, which is what you need when a screen is slow, a design has no ready-made widget, or a feature needs native code.
 
+Each week below has a matching task list in [tasks/03-depth.md](../tasks/03-depth.md) that breaks the build into small steps.
+
 ## Week 13: rendering and performance
 
 Topics
