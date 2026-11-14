@@ -2,6 +2,8 @@
 
 By the end of this phase you can build a small app on your own, from an empty folder to a release build on your phone. This is the junior level.
 
+Each week below has a matching task list in [tasks/01-foundations.md](../tasks/01-foundations.md) that breaks the build into small steps.
+
 ## Week 1: Dart
 
 Topics

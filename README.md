@@ -32,6 +32,8 @@ Every week has three parts:
 - Build: the work for that week, always on the same app.
 - Done when: a check you can verify yourself. If you cannot pass it, repeat the week.
 
+Each phase also has a task list in the [tasks](tasks) folder. It breaks every week into small steps you can tick off, and from phase 3 on each step is one pull request in your own repository.
+
 Each phase ends with a milestone that you publish on your own GitHub.
 
 ## The four phases
